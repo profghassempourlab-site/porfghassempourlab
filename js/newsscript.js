@@ -57,7 +57,7 @@ function renderNewsList() {
     overlay.innerHTML = `
       <h2>${news.title}</h2>
       <p>${news.content.substring(0, 40)}...</p>
-      <a href="single-news.HTML?id=${news.id}#news-container">View news</a>
+      <a href="single-news.html?id=${news.id}#news-container">View news</a>
     `;
 
     mainContent.appendChild(overlay);
@@ -98,7 +98,7 @@ function renderSingleNews() {
     newsBox.appendChild(p);
 
     const backLink = document.createElement("a");
-    backLink.href = "news-and-gallery.HTML";
+    backLink.href = "news-and-gallery.html";
     backLink.classList.add("back-link");
     backLink.textContent = "Returne";
     newsBox.appendChild(backLink);
