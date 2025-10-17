@@ -1476,3 +1476,26 @@ div .chromoatography-menu-item:hover{
   margin-top: 30px;
   margin-bottom: 50px;
 }
+
+
+/* ----------------------------------- */
+
+.prof-ghassempour-biography{
+  display: flex;
+  gap: 40px;
+  padding: 100px;
+  align-items: center;
+}
+
+.prof-ghassempour-biography p{
+  text-align: justify;
+}
+
+.prof-ghassempour-biography img{
+  height: 400px;
+  border-radius: 2px;
+}
+
+.prof-ghassempour-biography h2{
+  font-size: 20px;
+}
