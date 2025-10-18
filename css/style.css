@@ -655,11 +655,12 @@ header.scrolled .submenu li a{
   height: auto;
   display: flex;
   justify-content: space-between;
-  padding: 40px;
+  padding: 40px 80px 40px 80px;
   margin-top: 20px;
 }
 
 .right-footer {
+  padding-right: 50px;
  
 }
 
@@ -1483,7 +1484,7 @@ div .chromoatography-menu-item:hover{
 .prof-ghassempour-biography{
   display: flex;
   gap: 40px;
-  padding: 100px;
+  padding: 50px 100px 50px 100px;
   align-items: center;
 }
 
