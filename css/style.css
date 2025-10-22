@@ -1500,3 +1500,40 @@ div .chromoatography-menu-item:hover{
 .prof-ghassempour-biography h2{
   font-size: 20px;
 }
+
+
+/* ------------------------------------------------------------------------------------------------------- */
+/* service section */
+.service-section{
+  display: flex;
+  gap: 100px;
+  padding: 50px 100px 50px 100px;
+  
+}
+
+.service-info{
+  width: 700px;
+}
+.service-info h1{
+  margin-top: 70px;
+  background-color: rgb(75, 159, 243);
+  width: 400px;
+  padding: 20px;
+  font-size: 25px;
+  text-align: center;
+}
+.service-conect h1{
+  margin-top: 70px;
+  background-color: peru;
+  text-align: center;
+  padding: 20px;
+  font-size: 25px;
+  width: 400px;
+}
+.service-conect p{
+  margin-top: 25px;
+  text-align: left;
+  padding: 20px;
+  font-size: 15px;
+  width: 400px;
+}
