@@ -794,7 +794,7 @@ div .chromoatography-menu-item:hover{
 }
 
 .chromoatography-dropdown:hover .chromoatography-btn {
-  color: #000000;
+  color: #ffffff;
   font-size: 18px;
   transition: all 0.3s ease;
   font-weight: bold;
@@ -808,7 +808,7 @@ div .chromoatography-menu-item:hover{
 
 .chromoatography-dropdown:hover .chromoatography-btn i{
   transform: rotate(180deg);
-  color: #000000;
+  color: #ffffff;
 }
 
 .chromoatography-submenu {
@@ -1344,6 +1344,9 @@ div .chromoatography-menu-item:hover{
   margin-bottom: 20px;
   direction: inherit;
 }
+.article a:hover{
+  color: #0804d4;
+}
 
 /* --------------------------------------------------------------------------------------------- */
 
@@ -1536,4 +1539,18 @@ div .chromoatography-menu-item:hover{
   padding: 20px;
   font-size: 15px;
   width: 400px;
+}
+
+.forms-section{
+  text-align: center;
+  display: grid;
+  place-items: center;
+  margin-top: 50px;
+
+
+ }
+.forms-section h1{
+  background-color: #007BFF;
+  width: 400px;
+  padding: 10px;
 }
