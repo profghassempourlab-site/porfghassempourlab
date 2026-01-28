@@ -1,33 +1,43 @@
 const newsData = [
-  { id: 14040506,
+  { id: 20260108,
+    title: "Happy birthday",
+    content: "Happy birthday, Professor. We are very happy to learn new knowledge with you every year. May you always be happy and healthy.",    
+    images: ["img/News/birthday1.png"]
+  },
+  { id: 20260107,
+    title: "The fifth Pharmex Festival",
+    content: "The fifth Pharmex Festival was held on August 23-25, 2023 in Tehran. Attending this Festival as the only academic booth from Prof. Gassempour's group is one of the best and most enjoyable experiences that we have every year.",    
+    images: ["img/News/fifth pharmex1.jfif", "img/News/fifth pharmex2.jpg"]
+  },
+  { id: 20260106,
+    title: "The luncheon ceremony",
+    content: "The luncheon ceremony at the Medicinal Plants and Raw Materials Research Institute's farm, which is held with professors, is a time for students and professors to relax mentally and get away from the hard work environment for a while.",    
+    images: ["img/News/lunch1.jpg"]
+  },
+  { id: 20260105,
+    title: "Teacher's Day",
+    content: "Teacher's Day is an annual event held to commemorate the martyred teacher Motahari. This day is celebrated by students to appreciate the efforts of teachers.",
+    images: ["img/News/teacher day1.jpg"]
+  },
+  { id: 20260104, 
+    title: "The Iftar ceremony of the Institute",
+    content: "The Iftar ceremony of the Institute of Medicinal Plants and Raw Materials, held every year with professors and students, becomes a memorable day in the history of the institute.",
+    images: ["img/News/iftar1.jpg", "img/News/iftar2.jpg", "img/News/iftar3.jpg"]
+  },
+  { id: 20260103, 
+    title: "Students travel to Italy",
+    content: "Students travel to Italy to learn up-to-date science to strengthen the group's knowledge and connect with the world.",
+    images: ["img/News/jafar1.jpg", "img/News/jafar2.jpg"]
+  },
+  { id: 20260102, 
+    title: "Amir attended on International Conference Microbiology",
+    content: "On November 2023 Amir attended on International Conference Microbiology and Immunology at United Arab Emirates,where he presented his research on (Affinity -MALDI-TOF MS Technique for rapid and sensetive screening of Brucellosis in Biological sample). !Congratulation Amir",
+    images: ["img/News/amirreza1.png", "img/News/amirreza2.jpeg"]
+  },
+  { id: 20260101, 
     title: "​Amin win the best poster",
-    content: "​Amin win the best poster presentation on his research (Methylation pattern of GSTP1 gens as biomarker in Acute Lymphoblastic Leukemia using mass spectrometry) in The First International Congress of Cancer Genomics 2023 held on March 5th. Congrats Amin!! Wish you the best!.",    
-    images: ["img/test.jpg", "img/saeed Norouzi.png"]
-  },
-  { id: 14040606,
-    title: "secandry news",
-    content: "This is the second news text and more details have been written about the second news.",
-    images: ["img/test2.jpg", "img/test.jpg"]
-  },
-  { id: 3, 
-    title: "Thired news",
-    content: "This is the text of the first news item, and more details are written about the third news item.",
-    images: ["img/test.jpg"]
-  },
-  { id: 4, 
-    title: "Thired news",
-    content: "This is the text of the first news item, and more details are written about the third news item.",
-    images: ["img/test.jpg"]
-  },
-  { id: 5, 
-    title: "Thired news",
-    content: "This is the text of the first news item, and more details are written about the third news item.",
-    images: ["img/test.jpg"]
-  },
-  { id: 6, 
-    title: "Thired news",
-    content: "This is the text of the first news item, and more details are written about the third news item.",
-    images: ["img/test.jpg"]
+    content: "The Iftar ceremony of the Institute of Medicinal Plants and Raw Materials, held every year with professors and students, becomes a memorable day in the history of the institute.",
+    images: ["img/News/amin1.jpg", "img/News/amin2.jpg"]
   }
 ];
 
