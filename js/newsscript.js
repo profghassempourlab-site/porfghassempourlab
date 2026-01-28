@@ -36,7 +36,7 @@ const newsData = [
   },
   { id: 20260101, 
     title: "​Amin win the best poster",
-    content: "The Iftar ceremony of the Institute of Medicinal Plants and Raw Materials, held every year with professors and students, becomes a memorable day in the history of the institute.",
+    content: "Amin win the best poster presentation on his research (Methylation pattern of GSTP1 gens as biomarker in Acute Lymphoblastic Leukemia using mass spectrometry) in The First International Congress of Cancer Genomics 2023 held on March 5th. Congrats Amin!! Wish you the best!",
     images: ["img/News/amin1.jpg", "img/News/amin2.jpg"]
   }
 ];

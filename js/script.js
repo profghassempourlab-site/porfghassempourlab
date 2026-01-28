@@ -63,7 +63,7 @@ dots.forEach(dot => {
   });
 });
 
-// اسلاید خودکار هر 5 ثانیه
+// اسلاید خودکار هر 10 ثانیه
 
 setInterval(() => {
   currentSlide = (currentSlide + 1) % slides.length;
@@ -81,6 +81,6 @@ setInterval(() => {
     preloader.style.opacity = "0";       // کم‌کم محو میشه
     setTimeout(() => {
       preloader.style.display = "none";  // کامل حذف میشه
-    }, 500); // نیم‌ثانیه بعد
+    }, 1000); // نیم‌ثانیه بعد
   });
 
