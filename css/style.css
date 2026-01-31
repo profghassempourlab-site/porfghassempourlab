@@ -543,6 +543,7 @@ header.scrolled .submenu li a{
 .Group-container{
   width: 100%;
   height: 100%;
+  padding-bottom: 50px;
 }
 
 .group-title{
@@ -710,7 +711,7 @@ header.scrolled .submenu li a{
   display: flex;
   justify-content: space-between;
   padding: 40px 80px 40px 80px;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .right-footer {
